@@ -6,7 +6,7 @@ Welcome to the PY Dash PowerHouse team's NISR Hackathon repository! Based on dat
 
 1. **Overview**: A summary statistics of labor force survey data.
 2. **Agriculture**: Detailed perspectives on the labor force in the agricultural industry.
-3. **Employment**: Illustrates employment engagement in different fields and demographic groups.
+3. **Employment**: Describes employment engagement in different fields and demographic groups.
 4. **Outside the Labor Force**: Insights pertaining to those who are not engaged in the workforce.
 5. **Regional**: Labor force data broken down by districts.
 6. **Unemployment**: Examining unemployment trends according to various demographic groups.
