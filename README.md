@@ -6,15 +6,15 @@ Welcome to the PY Dash PowerHouse team's NISR Hackathon repository! Based on dat
 
 1. **Overview**: A summary statistics of labor force survey data.
 2. **Agriculture**: Detailed perspectives on the labor force in the agricultural industry.
-3. **Employment**: Comprehensive data on the state of employment today.
-4. **Outside the Labor Force**: Data analysis pertaining to those who are not engaged in the workforce.
-5. **Regional**: Labor force data broken down by region.
-6. **Unemployment**: Examining jobless rates according to various demographic groups.
-7. **Youth**: Specifics about the youth's participation in the labor force.
+3. **Employment**: Illustrates employment engagement in different fields and demographic groups.
+4. **Outside the Labor Force**: Insights pertaining to those who are not engaged in the workforce.
+5. **Regional**: Labor force data broken down by districts.
+6. **Unemployment**: Examining unemployment trends according to various demographic groups.
+7. **Youth**: Specifics about the youth's participation in the labor force and skills they have.
 
 ## Usage
 
-To explore the dashboard locally, follow these steps:
+To explore the dashboard locally, here is the link:
 
 1. **Clone the repository:**
    ```bash
