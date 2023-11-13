@@ -1,0 +1,15 @@
+.nav-link {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #fff;
+    background-color: #16b5cd84;
+}
+
+.active {
+    color: #000; /* Change the text color when a link is active */
+    background-color: #2fc2df; /* Change the background color when a link is active */
+}
